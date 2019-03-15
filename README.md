@@ -1,6 +1,6 @@
 node-x16r
 ===============
-Cryptocurrency hashing functions for [ravencore-lib](https://github.com/underdarkskies/ravencore-lib)
+Cryptocurrency hashing functions for [rtmcore-lib](https://github.com/Raptor3um/rtmcore-lib)
 
 
 Current version v1.0.0
